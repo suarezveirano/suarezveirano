@@ -4,6 +4,5 @@
 - 🌱 I am Professor of Pharmacology Veterinary Research Interests: Application of pharmacometrics in optimizing drug therapy.
 - 📫 Always learning
   
-- <img width="92" height="92" alt="image" src="https://github.com/user-attachments/assets/00eebab1-19a3-4d18-ad2b-f47f383b07ab" />
-  [CV](https://export.cvuy.uy/cv/?03b3aba82e0004a38986a2d3e1a67e964f6462d8f0ba028239b3844847f3bdd7cf27c932da287e34079dd1c70dffda2f936cfe71ee19f1019ed144fe7769e38a)
+- 📝 [CV](https://export.cvuy.uy/cv/?03b3aba82e0004a38986a2d3e1a67e964f6462d8f0ba028239b3844847f3bdd7cf27c932da287e34079dd1c70dffda2f936cfe71ee19f1019ed144fe7769e38a)
   
